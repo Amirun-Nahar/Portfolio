@@ -145,7 +145,7 @@ This site is deployed on Netlify. To deploy your own version:
 
 ## Contact
 
-Amirun Nahar - amirunnahar2001@gmail.com
+Amirun Nahar - naharamina68@gmail.com
 
 - GitHub: [https://github.com/Amirun-Nahar](https://github.com/Amirun-Nahar)
 - LinkedIn: [https://www.linkedin.com/in/amirun-nahar-899473344](https://www.linkedin.com/in/amirun-nahar-899473344)
