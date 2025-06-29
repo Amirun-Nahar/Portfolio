@@ -161,8 +161,8 @@ const Footer = () => {
                 <ContactInfo 
                   icon={FaEnvelope}
                   label="Email"
-                  value="amirunnahar2001@gmail.com"
-                  href="mailto:amirunnahar2001@gmail.com"
+                  value="naharamina68@gmail.com"
+                  href="mailto:naharamina68@gmail.com"
                 />
                 <ContactInfo 
                   icon={FaMapMarkerAlt}
