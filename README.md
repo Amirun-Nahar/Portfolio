@@ -2,9 +2,13 @@
 
 A modern, responsive portfolio website showcasing my projects and skills, built with React and Tailwind CSS.
 
+## Screenshots:
+![image](https://github.com/user-attachments/assets/6ad75bd8-f8b7-48fd-955b-eda023ee0899)
+![image](https://github.com/user-attachments/assets/8c5e9e5e-f93c-41aa-9741-8a8545051c45)
+
 ## Live Demo
 
-Visit my portfolio: [https://amirun-nahar-portfolio.netlify.app/](https://amirun-nahar-portfolio.netlify.app/)
+Visit my portfolio: [https://amirun-nahar-portfolio.netlify.app/](https://nahar-portfolio.netlify.app/)
 
 ## Features
 
@@ -145,4 +149,4 @@ Amirun Nahar - amirunnahar2001@gmail.com
 
 - GitHub: [https://github.com/Amirun-Nahar](https://github.com/Amirun-Nahar)
 - LinkedIn: [https://www.linkedin.com/in/amirun-nahar-899473344](https://www.linkedin.com/in/amirun-nahar-899473344)
-- Portfolio: [https://amirun-nahar-portfolio.netlify.app/](https://amirun-nahar-portfolio.netlify.app/)
+- Portfolio: [https://amirun-nahar-portfolio.netlify.app/](https://nahar-portfolio.netlify.app/)
